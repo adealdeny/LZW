@@ -1,3 +1,4 @@
 
   activateHandler,
   commandHandler,
+  continueHandler,
