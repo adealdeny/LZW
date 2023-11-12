@@ -2,3 +2,4 @@
   activateHandler,
   commandHandler,
   continueHandler,
+  deactivateHandler,
