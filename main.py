@@ -3,3 +3,4 @@
   commandHandler,
   continueHandler,
   deactivateHandler,
+  deployHandler,
