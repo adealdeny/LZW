@@ -5,3 +5,4 @@
   deactivateHandler,
   deployHandler,
   docHandler,
+  drawHandler,
