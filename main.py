@@ -4,3 +4,4 @@
   continueHandler,
   deactivateHandler,
   deployHandler,
+  docHandler,
