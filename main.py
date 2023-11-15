@@ -6,3 +6,4 @@
   deployHandler,
   docHandler,
   drawHandler,
+  forgetHandler,
