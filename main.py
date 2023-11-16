@@ -8,3 +8,4 @@
   drawHandler,
   forgetHandler,
   enquireHandler,
+  reportHandler,
