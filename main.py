@@ -7,3 +7,4 @@
   docHandler,
   drawHandler,
   forgetHandler,
+  enquireHandler,
