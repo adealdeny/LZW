@@ -10,3 +10,4 @@
   enquireHandler,
   reportHandler,
   retryHandler,
+  searchHandler,
