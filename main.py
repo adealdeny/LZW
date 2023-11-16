@@ -9,3 +9,4 @@
   forgetHandler,
   enquireHandler,
   reportHandler,
+  retryHandler,
