@@ -12,3 +12,4 @@
   retryHandler,
   searchHandler,
   talkHandler,
+  versionHandler,
