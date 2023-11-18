@@ -11,3 +11,4 @@
   reportHandler,
   retryHandler,
   searchHandler,
+  talkHandler,
