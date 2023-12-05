@@ -50,3 +50,4 @@ const handleEvents = async (events = []) => (
           .map((event) => new Context(event))
           .map((context) => context.initialize()),
       ))
+        .map((context) => (context.error ? context : handleContext(context))),
