@@ -48,3 +48,4 @@ const handleEvents = async (events = []) => (
           .filter((event) => event.isMessage)
           .filter((event) => event.isText || event.isAudio)
           .map((event) => new Context(event))
+          .map((context) => context.initialize()),
