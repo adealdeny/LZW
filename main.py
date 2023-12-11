@@ -65,3 +65,4 @@ import {
   deactivateHandler,
   deployHandler,
   docHandler,
+  drawHandler,
