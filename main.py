@@ -89,3 +89,4 @@ const handleContext = async (context) => (
   || deployHandler(context)
   || docHandler(context)
   || drawHandler(context)
+  || forgetHandler(context)
