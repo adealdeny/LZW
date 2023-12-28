@@ -90,3 +90,4 @@ const handleContext = async (context) => (
   || docHandler(context)
   || drawHandler(context)
   || forgetHandler(context)
+  || enquireHandler(context)
