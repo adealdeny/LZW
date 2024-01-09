@@ -111,3 +111,4 @@ const handleEvents = async (events = []) => (
           .map((context) => context.initialize()),
       ))
         .map((context) => (context.error ? context : handleContext(context))),
+    ))
