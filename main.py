@@ -121,3 +121,4 @@ export default handleEvents;import { replyMessage } from '../utils/index.js';
 import {
   activateHandler,
   commandHandler,
+  continueHandler,
