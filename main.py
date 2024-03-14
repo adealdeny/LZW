@@ -134,3 +134,4 @@ import {
   talkHandler,
   versionHandler,
 } from './handlers/index.js';
+import Context from './context.js';
