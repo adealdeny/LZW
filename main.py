@@ -145,3 +145,4 @@ const handleContext = async (context) => (
   activateHandler(context)
   || commandHandler(context)
   || continueHandler(context)
+  || deactivateHandler(context)
