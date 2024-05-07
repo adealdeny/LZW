@@ -154,3 +154,4 @@ const handleContext = async (context) => (
   || reportHandler(context)
   || retryHandler(context)
   || searchHandler(context)
+  || versionHandler(context)
