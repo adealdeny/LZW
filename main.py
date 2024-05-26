@@ -158,3 +158,4 @@ const handleContext = async (context) => (
   || talkHandler(context)
   continueHandler,
   deactivateHandler,
+  deployHandler,
