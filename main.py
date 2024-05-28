@@ -168,3 +168,4 @@ const handleContext = async (context) => (
   searchHandler,
   talkHandler,
   versionHandler,
+} from './handlers/index.js';
