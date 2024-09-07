@@ -221,3 +221,4 @@ import {
   deployHandler,
   docHandler,
   drawHandler,
+  forgetHandler,
