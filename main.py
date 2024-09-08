@@ -223,3 +223,4 @@ import {
   drawHandler,
   forgetHandler,
   enquireHandler,
+  reportHandler,
