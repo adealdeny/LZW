@@ -226,3 +226,4 @@ import {
   reportHandler,
   retryHandler,
   searchHandler,
+  talkHandler,
