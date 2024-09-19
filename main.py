@@ -237,3 +237,4 @@ import Event from './models/event.js';
  * @returns {Promise<Context>}
  */
 const handleContext = async (context) => (
+  activateHandler(context)
