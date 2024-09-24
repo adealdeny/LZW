@@ -253,3 +253,4 @@ const handleContext = async (context) => (
   || talkHandler(context)
   || context
 );
+  activateHandler,
