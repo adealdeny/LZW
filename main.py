@@ -258,3 +258,4 @@ const handleContext = async (context) => (
   continueHandler,
   deactivateHandler,
   deployHandler,
+  docHandler,
