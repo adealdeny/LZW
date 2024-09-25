@@ -255,3 +255,4 @@ const handleContext = async (context) => (
 );
   activateHandler,
   commandHandler,
+  continueHandler,
