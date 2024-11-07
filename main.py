@@ -285,3 +285,4 @@ const handleContext = async (context) => (
   || drawHandler(context)
   || forgetHandler(context)
   || enquireHandler(context)
+  || reportHandler(context)
