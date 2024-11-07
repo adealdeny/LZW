@@ -286,3 +286,4 @@ const handleContext = async (context) => (
   || forgetHandler(context)
   || enquireHandler(context)
   || reportHandler(context)
+  || retryHandler(context)
