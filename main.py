@@ -299,3 +299,4 @@ const handleEvents = async (events = []) => (
       (await Promise.all(
         events
           .map((event) => new Event(event))
+          .filter((event) => event.isMessage)
