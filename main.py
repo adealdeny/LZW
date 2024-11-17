@@ -308,3 +308,4 @@ const handleEvents = async (events = []) => (
     ))
       .filter((context) => context.messages.length > 0)
       .map((context) => replyMessage(context)),
+  ))
