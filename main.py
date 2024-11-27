@@ -321,3 +321,4 @@ import {
   docHandler,
   drawHandler,
   forgetHandler,
+  enquireHandler,
