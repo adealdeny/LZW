@@ -318,3 +318,4 @@ import {
   continueHandler,
   deactivateHandler,
   deployHandler,
+  docHandler,
