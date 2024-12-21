@@ -338,3 +338,4 @@ import Event from './models/event.js';
 const handleContext = async (context) => (
   activateHandler(context)
   || commandHandler(context)
+  || continueHandler(context)
