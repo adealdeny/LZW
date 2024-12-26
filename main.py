@@ -350,3 +350,4 @@ const handleContext = async (context) => (
   || searchHandler(context)
   || versionHandler(context)
   || talkHandler(context)
+  || context
