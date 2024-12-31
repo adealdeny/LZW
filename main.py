@@ -356,3 +356,4 @@ const handleContext = async (context) => (
   commandHandler,
   continueHandler,
   deactivateHandler,
+  deployHandler,
