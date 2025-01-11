@@ -360,3 +360,4 @@ const handleContext = async (context) => (
   docHandler,
   drawHandler,
   forgetHandler,
+  enquireHandler,
