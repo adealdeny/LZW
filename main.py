@@ -363,3 +363,4 @@ const handleContext = async (context) => (
   enquireHandler,
   reportHandler,
   retryHandler,
+  searchHandler,
