@@ -365,3 +365,4 @@ const handleContext = async (context) => (
   retryHandler,
   searchHandler,
   talkHandler,
+  versionHandler,
