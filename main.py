@@ -380,3 +380,4 @@ const handleContext = async (context) => (
   || continueHandler(context)
   || deactivateHandler(context)
   || deployHandler(context)
+  || docHandler(context)
