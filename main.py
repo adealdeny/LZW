@@ -392,3 +392,4 @@ const handleContext = async (context) => (
   || context
 );
 
+const handleEvents = async (events = []) => (
