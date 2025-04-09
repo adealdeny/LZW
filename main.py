@@ -396,3 +396,4 @@ const handleEvents = async (events = []) => (
   (Promise.all(
     (await Promise.all(
       (await Promise.all(
+        events
