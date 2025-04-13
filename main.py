@@ -397,3 +397,4 @@ const handleEvents = async (events = []) => (
     (await Promise.all(
       (await Promise.all(
         events
+          .map((event) => new Event(event))
