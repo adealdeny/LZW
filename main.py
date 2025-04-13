@@ -399,3 +399,4 @@ const handleEvents = async (events = []) => (
         events
           .map((event) => new Event(event))
           .filter((event) => event.isMessage)
+          .filter((event) => event.isText || event.isAudio)
