@@ -415,3 +415,4 @@ import {
   activateHandler,
   commandHandler,
   continueHandler,
+  deactivateHandler,
