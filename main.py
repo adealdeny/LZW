@@ -416,3 +416,4 @@ import {
   commandHandler,
   continueHandler,
   deactivateHandler,
+  deployHandler,
