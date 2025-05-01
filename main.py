@@ -423,3 +423,4 @@ import {
   enquireHandler,
   reportHandler,
   retryHandler,
+  searchHandler,
