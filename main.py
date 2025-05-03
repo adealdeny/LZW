@@ -426,3 +426,4 @@ import {
   searchHandler,
   talkHandler,
   versionHandler,
+} from './handlers/index.js';
