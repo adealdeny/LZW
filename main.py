@@ -425,3 +425,4 @@ import {
   retryHandler,
   searchHandler,
   talkHandler,
+  versionHandler,
