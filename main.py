@@ -439,3 +439,4 @@ const handleContext = async (context) => (
   || commandHandler(context)
   || continueHandler(context)
   || deactivateHandler(context)
+  || deployHandler(context)
