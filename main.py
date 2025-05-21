@@ -448,3 +448,4 @@ const handleContext = async (context) => (
   || retryHandler(context)
   || searchHandler(context)
   || versionHandler(context)
+  || talkHandler(context)
