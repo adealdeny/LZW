@@ -463,3 +463,4 @@ const handleContext = async (context) => (
   reportHandler,
   retryHandler,
   searchHandler,
+  talkHandler,
