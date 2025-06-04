@@ -467,3 +467,4 @@ const handleContext = async (context) => (
   versionHandler,
 } from './handlers/index.js';
 import Context from './context.js';
+import Event from './models/event.js';
