@@ -489,3 +489,4 @@ const handleContext = async (context) => (
   || versionHandler(context)
   || talkHandler(context)
   || context
+);
